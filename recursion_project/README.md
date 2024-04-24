@@ -4,33 +4,32 @@
 
 ## Directory Tree:
 
-recursion_project
-├─docs
-│ └─requirements.txt
-├─source
-│ ├─__init__.py
-│ ├─iterative_function.py
-│ └─recursive_floyd.py
-├─tests
-│ ├─__init__.py
-│ ├─test_performance.py
-│ └─test_recursive_function.py
+recursion_project <br>
+├─docs <br>
+│ └─requirements.txt <br>
+├─source <br>
+│ ├─__init__.py <br>
+│ ├─iterative_function.py <br>
+│ └─recursive_floyd.py <br>
+├─tests <br>
+│ ├─__init__.py <br>
+│ ├─test_performance.py <br>
+│ └─test_recursive_function.py <br>
 └─README.md
 
 ## Description:
-------------
+
 This package finds the shortest path between nodes in a graph matrix using using Floyd-Warshall algorithm and the inteperative Python language. 
 A recursive function is implememnted and compared with the performance of an iterative function.
 
 ## How to Install:
--------------
 
 1. Clone the repository: `git clone https://github.com/your_username/recursion_project.git`
 2. Navigate to the project directory: `cd shortest-path-finder`
 3. Install the package: `pip install .`
 
 ## How to Run:
-------
+
 Follow these steps to use the functionalisty within your code:
 
 1. Import the package in your Python code: `import shortest_path_finder`
@@ -39,7 +38,7 @@ Follow these steps to use the functionalisty within your code:
 4. The function will return a matrix containing the shortest distances between every pair of vertices.
 
 ## For Example:
---------
+
 ```python 
 import recursion_project
 
