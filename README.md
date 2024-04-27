@@ -22,20 +22,20 @@ README.md
 This package finds the shortest path between nodes in a graph matrix using using Floyd-Warshall algorithm and the inteperative Python language. 
 A recursive function is implememnted and compared with the performance of an iterative function.
 
-## How to Install:
+## How to Install using the following commands:
 
-1. Clone the repository: `git clone https://github.com/sapphirafs/recursion_project.git`
-2. Navigate to the project directory: `cd shortest-path-finder`
-3. Install the package: `pip install .`
+1. Clone the repository: *git clone https://github.com/sapphirafs/recursion_project.git*
+2. Navigate to the project directory: *cd recursion_project*
+3. Install the package: *pip install*
 
 ## How to Run:
 
 Follow these steps to use the functionalisty within your code:
 
-1. Import the package in your Python code: `import shortest_path_finder`
+1. Import the package into your code (at the top of the file): *import recursion_project*
 2. Create a graph representing the weight values between vertices.
-3. Call the `recursive_floyd(graph)` function whilst passing the graph matrix as an argument.
-4. The function will return a matrix containing the shortest distances between every pair of vertices.
+3. Call the *recursive_floyd_algorithm(graph)* function whilst passing the graph matrix as an argument.
+4. The function will return a matrix (list of lists/2d array) containing the shortest distances between every pair of vertices.
 
 ## For Example:
 
@@ -51,5 +51,5 @@ graph = [
 ]
 
 # Call and print the function
-result = recursion_project.recursive_floyd(graph)
+result = recursion_project.recursive_floyd.recursive_floyd_algorithm(graph)
 print(result)
