@@ -15,7 +15,7 @@ recursion_project <br>
 │ ├─__init__.py <br>
 │ ├─test_performance.py <br>
 │ └─test_recursive_function.py <br>
-└─README.md
+README.md
 
 ## Description:
 
