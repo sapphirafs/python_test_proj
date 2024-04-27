@@ -24,7 +24,7 @@ A recursive function is implememnted and compared with the performance of an ite
 
 ## How to Install:
 
-1. Clone the repository: `git clone https://github.com/your_username/recursion_project.git`
+1. Clone the repository: `git clone https://github.com/sapphirafs/recursion_project.git`
 2. Navigate to the project directory: `cd shortest-path-finder`
 3. Install the package: `pip install .`
 
