@@ -30,7 +30,7 @@ A recursive function is implememnted and compared with the performance of an ite
 
 ## How to Run:
 
-Follow these steps to use the functionalisty within your code:
+Follow these steps to use the functionality within your code:
 
 1. Import the package into your code (at the top of the file): *import recursion_project*
 2. Create a graph representing the weight values between vertices.
